@@ -8,6 +8,7 @@ v1.2.2
 
 - Fix error comparing screenshots in mobile tests
 - Fix image size when enlarging a vertical image in visual testing reports
+- Move js out of visual html report to avoid CSP warnings
 
 v1.2.1
 ------
